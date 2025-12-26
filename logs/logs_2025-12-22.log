@@ -1,0 +1,118 @@
+2025-12-22 14:39:58,267 - INFO - Succesfully read YAML file
+2025-12-22 14:39:58,268 - INFO - Data Ingestion class intialized
+2025-12-22 14:39:58,268 - INFO - Starting data ingestion process
+2025-12-22 14:40:00,698 - ERROR - Error while downloading data from GCP
+2025-12-22 14:40:00,698 - ERROR - CustomException:  Error occured in filename: E:\MLOPs\MLOPS_Project2_Recommendation_system\Recommendation_System\src\data_ingestion.py at line number:41 with message: Failed to download data from GCP
+2025-12-22 14:40:00,698 - INFO - Data Injestion done ... ... ...
+2025-12-22 14:41:02,234 - INFO - Succesfully read YAML file
+2025-12-22 14:41:02,234 - INFO - Data Ingestion class intialized
+2025-12-22 14:41:02,235 - INFO - Starting data ingestion process
+2025-12-22 14:41:03,395 - ERROR - Error while downloading data from GCP
+2025-12-22 14:41:03,395 - ERROR - CustomException:  Error occured in filename: E:\MLOPs\MLOPS_Project2_Recommendation_system\Recommendation_System\src\data_ingestion.py at line number:41 with message: Failed to download data from GCP
+2025-12-22 14:41:03,396 - INFO - Data Injestion done ... ... ...
+2025-12-22 14:41:48,139 - INFO - Succesfully read YAML file
+2025-12-22 14:41:48,139 - INFO - Data Ingestion class intialized
+2025-12-22 14:41:48,139 - INFO - Starting data ingestion process
+2025-12-22 14:41:49,189 - ERROR - Error while downloading data from GCP
+2025-12-22 14:41:49,189 - ERROR - CustomException:  Error occured in filename: E:\MLOPs\MLOPS_Project2_Recommendation_system\Recommendation_System\src\data_ingestion.py at line number:42 with message: Failed to download data from GCP
+2025-12-22 14:41:49,189 - INFO - Data Injestion done ... ... ...
+2025-12-22 14:43:46,298 - INFO - Succesfully read YAML file
+2025-12-22 14:43:46,299 - INFO - Data Ingestion class intialized
+2025-12-22 14:43:46,299 - INFO - Starting data ingestion process
+2025-12-22 14:43:46,310 - ERROR - Error while downloading data from GCP
+2025-12-22 14:43:46,310 - ERROR - CustomException:  Error occured in filename: E:\MLOPs\MLOPS_Project2_Recommendation_system\Recommendation_System\src\data_ingestion.py at line number:42 with message: Failed to download data from GCP
+2025-12-22 14:43:46,310 - INFO - Data Injestion done ... ... ...
+2025-12-22 14:45:21,072 - INFO - Succesfully read YAML file
+2025-12-22 14:45:21,072 - INFO - Data Ingestion class intialized
+2025-12-22 14:45:21,072 - INFO - Starting data ingestion process
+2025-12-22 14:45:21,085 - ERROR - Error while downloading data from GCP
+2025-12-22 14:45:21,085 - ERROR - CustomException:  Error occured in filename: E:\MLOPs\MLOPS_Project2_Recommendation_system\Recommendation_System\src\data_ingestion.py at line number:42 with message: Failed to download data from GCP
+2025-12-22 14:45:21,085 - INFO - Data Injestion done ... ... ...
+2025-12-22 15:02:48,692 - INFO - Succesfully read YAML file
+2025-12-22 15:02:48,692 - INFO - Data Ingestion class intialized
+2025-12-22 15:02:48,692 - INFO - Starting data ingestion process
+2025-12-22 15:02:49,977 - INFO - Data ingestion completed
+2025-12-22 15:02:49,977 - INFO - Data Injestion done ... ... ...
+2025-12-22 15:03:45,187 - INFO - Succesfully read YAML file
+2025-12-22 15:03:45,188 - INFO - Data Ingestion class intialized
+2025-12-22 15:03:45,188 - INFO - Starting data ingestion process
+2025-12-22 15:03:46,404 - INFO - Data ingestion completed
+2025-12-22 15:03:46,404 - INFO - Data Injestion done ... ... ...
+2025-12-22 15:04:25,807 - INFO - Succesfully read YAML file
+2025-12-22 15:04:25,808 - INFO - Data Ingestion class intialized
+2025-12-22 15:04:25,808 - INFO - Starting data ingestion process
+2025-12-22 15:04:27,032 - INFO - Data ingestion completed
+2025-12-22 15:04:27,032 - INFO - Data Injestion done ... ... ...
+2025-12-22 15:04:55,197 - INFO - Succesfully read YAML file
+2025-12-22 15:04:55,198 - INFO - Data Ingestion class intialized
+2025-12-22 15:04:55,198 - INFO - Starting data ingestion process
+2025-12-22 15:04:56,394 - INFO - Data ingestion completed
+2025-12-22 15:04:56,394 - INFO - Data Injestion done ... ... ...
+2025-12-22 15:06:51,731 - INFO - Succesfully read YAML file
+2025-12-22 15:06:51,733 - INFO - Data Ingestion class intialized
+2025-12-22 15:06:51,733 - INFO - Starting data ingestion process
+2025-12-22 15:06:55,822 - INFO - Downloading other files
+2025-12-22 15:06:58,963 - INFO - Downloading other files
+2025-12-22 15:14:02,400 - INFO - Downloading other files
+2025-12-22 15:14:02,406 - INFO - Data ingestion completed
+2025-12-22 15:14:02,406 - INFO - Data Injestion done ... ... ...
+2025-12-22 15:15:14,646 - INFO - Succesfully read YAML file
+2025-12-22 15:15:14,647 - INFO - Data Ingestion class intialized
+2025-12-22 15:15:14,647 - INFO - Starting data ingestion process
+2025-12-22 15:15:18,843 - INFO - Downloading other files
+2025-12-22 15:15:21,635 - INFO - Downloading other files
+2025-12-22 15:20:11,465 - INFO - Data Injestion done ... ... ...
+2025-12-22 15:20:13,451 - INFO - Succesfully read YAML file
+2025-12-22 15:20:13,452 - INFO - Data Ingestion class intialized
+2025-12-22 15:20:13,452 - INFO - Starting data ingestion process
+2025-12-22 15:20:17,434 - INFO - Downloading other files
+2025-12-22 15:20:20,312 - INFO - Downloading other files
+2025-12-22 15:21:48,528 - INFO - Data Injestion done ... ... ...
+2025-12-22 15:24:36,306 - INFO - Succesfully read YAML file
+2025-12-22 15:24:36,307 - INFO - Data Ingestion class intialized
+2025-12-22 15:24:36,307 - INFO - Starting data ingestion process
+2025-12-22 15:24:40,459 - INFO - Downloading other files
+2025-12-22 15:24:43,376 - INFO - Downloading other files
+2025-12-22 15:31:52,140 - INFO - Download 5 million rows from animelist.csv 
+2025-12-22 15:31:52,160 - INFO - Data ingestion completed
+2025-12-22 15:31:52,161 - INFO - Data Injestion done ... ... ...
+2025-12-22 15:36:46,058 - INFO - Succesfully read YAML file
+2025-12-22 15:36:46,058 - INFO - Data Ingestion class intialized
+2025-12-22 15:36:46,058 - INFO - Starting data ingestion process
+2025-12-22 15:36:50,168 - INFO - Downloading other files
+2025-12-22 15:36:52,895 - INFO - Downloading other files
+2025-12-22 15:36:52,896 - ERROR - Error while downloading data from GCP
+2025-12-22 15:36:52,896 - ERROR - CustomException:  Error occured in filename: E:\MLOPs\MLOPS_Project2_Recommendation_system\Recommendation_System\src\data_ingestion.py at line number:44 with message: Failed to download data from GCP
+2025-12-22 15:36:52,896 - INFO - Data Injestion done ... ... ...
+2025-12-22 15:38:11,882 - INFO - Succesfully read YAML file
+2025-12-22 15:38:11,882 - INFO - Data Ingestion class intialized
+2025-12-22 15:38:11,882 - INFO - Starting data ingestion process
+2025-12-22 15:38:15,992 - INFO - Downloading other files
+2025-12-22 15:38:18,840 - INFO - Downloading other files
+2025-12-22 15:38:18,841 - ERROR - Error while downloading data from GCP
+2025-12-22 15:38:18,842 - ERROR - CustomException:  Error occured in filename: E:\MLOPs\MLOPS_Project2_Recommendation_system\Recommendation_System\src\data_ingestion.py at line number:45 with message: Failed to download data from GCP
+2025-12-22 15:38:18,842 - INFO - Data Injestion done ... ... ...
+2025-12-22 15:40:59,291 - INFO - Succesfully read YAML file
+2025-12-22 15:40:59,291 - INFO - Data Ingestion class intialized
+2025-12-22 15:40:59,291 - INFO - Starting data ingestion process
+2025-12-22 15:41:03,796 - INFO - Downloading other files
+2025-12-22 15:41:06,599 - INFO - Downloading other files
+2025-12-22 15:46:44,277 - ERROR - Error while downloading data from GCP
+2025-12-22 15:46:44,294 - ERROR - CustomException:  Error occured in filename: E:\MLOPs\MLOPS_Project2_Recommendation_system\Recommendation_System\src\data_ingestion.py at line number:45 with message: Failed to download data from GCP
+2025-12-22 15:46:44,294 - INFO - Data Injestion done ... ... ...
+2025-12-22 15:48:44,131 - INFO - Succesfully read YAML file
+2025-12-22 15:48:44,131 - INFO - Data Ingestion class intialized
+2025-12-22 15:48:44,131 - INFO - Starting data ingestion process
+2025-12-22 15:48:48,331 - INFO - Downloading other files
+2025-12-22 15:48:51,164 - INFO - Downloading other files
+2025-12-22 15:48:51,167 - ERROR - Error while downloading data from GCP
+2025-12-22 15:48:51,167 - ERROR - CustomException:  Error occured in filename: E:\MLOPs\MLOPS_Project2_Recommendation_system\Recommendation_System\src\data_ingestion.py at line number:46 with message: Failed to download data from GCP
+2025-12-22 15:48:51,167 - INFO - Data Injestion done ... ... ...
+2025-12-22 15:49:32,119 - INFO - Succesfully read YAML file
+2025-12-22 15:49:32,119 - INFO - Data Ingestion class intialized
+2025-12-22 15:49:32,119 - INFO - Starting data ingestion process
+2025-12-22 15:49:36,308 - INFO - Downloading other files
+2025-12-22 15:49:39,298 - INFO - Downloading other files
+2025-12-22 15:57:49,092 - INFO - Download 5 million rows from animelist.csv 
+2025-12-22 15:57:49,107 - INFO - Data ingestion completed
+2025-12-22 15:57:49,107 - INFO - Data Injestion done ... ... ...

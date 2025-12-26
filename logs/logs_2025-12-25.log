@@ -1,0 +1,22 @@
+2025-12-25 19:08:04,771 - INFO - Data Processing initialized
+2025-12-25 19:08:07,394 - INFO - Data loaded successfully for Data processing
+2025-12-25 19:08:19,276 - INFO - Filtered users succesfully
+2025-12-25 19:08:22,499 - INFO - Rating are scaled suceesfully
+2025-12-25 19:08:22,499 - INFO - Creating mapping for encoding and decoding user_id
+2025-12-25 19:08:25,507 - INFO - Creating mapping for encoding and decoding anime_id
+2025-12-25 19:08:25,581 - ERROR -  Error occured in filename: E:\MLOPs\MLOPS_Project2_Recommendation_system\Recommendation_System\src\data_processing.py at line number:79 with message: Falied to encode/decode data
+2025-12-25 19:10:40,054 - INFO - Data Processing initialized
+2025-12-25 19:10:42,558 - INFO - Data loaded successfully for Data processing
+2025-12-25 19:10:54,343 - INFO - Filtered users succesfully
+2025-12-25 19:10:57,561 - INFO - Rating are scaled suceesfully
+2025-12-25 19:10:57,561 - INFO - Creating mapping for encoding and decoding user_id
+2025-12-25 19:11:00,511 - INFO - Creating mapping for encoding and decoding anime_id
+2025-12-25 19:11:03,559 - INFO - Encoded and Decoded user_ids and anime_ids sucessfully
+2025-12-25 19:11:04,680 - INFO - Data splitted with training data: 3214174 samples and test data: 32467 samples
+2025-12-25 19:11:04,704 - INFO - file user_id_encoded.pk saved at artifacts/processed
+2025-12-25 19:11:04,726 - INFO - file user_id_decoded.pk saved at artifacts/processed
+2025-12-25 19:11:04,835 - INFO - file anime_id_encoded.pk saved at artifacts/processed
+2025-12-25 19:11:04,923 - INFO - file anime_id_decoded.pk saved at artifacts/processed
+2025-12-25 19:11:18,435 - INFO - Training, testing data, df_rating , ancoding and decodings saved successfully
+2025-12-25 19:11:36,476 - INFO - df and df_synopsis saved succesfully  ...
+2025-12-25 19:11:36,481 - INFO - Data processing suceesfully completed

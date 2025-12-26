@@ -1,0 +1,55 @@
+2025-12-26 15:48:49,865 - INFO - Model training initialized
+2025-12-26 15:48:50,093 - INFO - Data loaded successfully for Model training
+2025-12-26 15:48:50,107 - ERROR - Error during saving model and weights 'function' object has no attribute 'save'
+2025-12-26 15:50:06,517 - INFO - Model training initialized
+2025-12-26 15:50:06,726 - INFO - Data loaded successfully for Model training
+2025-12-26 15:50:06,738 - ERROR - Error during saving model and weights 'function' object has no attribute 'save'
+2025-12-26 15:51:16,794 - INFO - Model training initialized
+2025-12-26 15:51:16,951 - INFO - Data loaded successfully for Model training
+2025-12-26 15:51:17,152 - INFO - Data loaded successfully for Model training
+2025-12-26 15:51:17,235 - INFO - Succesfully read YAML file
+2025-12-26 15:51:17,235 - INFO - Reading configuration from config.yaml
+2025-12-26 15:51:17,235 - INFO - Model building started
+2025-12-26 15:51:17,551 - INFO - Starting training the model on training data
+2025-12-26 15:53:28,549 - INFO - Model training completed
+2025-12-26 15:53:28,566 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-12-26 15:53:28,690 - INFO - Model saved to artifacts/models\model.h5
+2025-12-26 15:53:28,715 - INFO - user and anime weights saved successfully
+2025-12-26 16:12:53,763 - INFO - Model training initialized
+2025-12-26 16:13:08,040 - INFO - Model training and COMET ML initialized ...
+2025-12-26 16:13:08,392 - INFO - Data loaded successfully for Model training
+2025-12-26 16:13:08,461 - INFO - Succesfully read YAML file
+2025-12-26 16:13:08,462 - INFO - Reading configuration from config.yaml
+2025-12-26 16:13:08,462 - INFO - Model building started
+2025-12-26 16:13:11,089 - INFO - Starting training the model on training data
+2025-12-26 17:19:38,551 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.comet.com', port=443): Read timed out. (read timeout=10)")': /clientlib/batch/logger/experiment/metric
+2025-12-26 17:19:45,660 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.comet.com', port=443): Read timed out. (read timeout=10)")': /clientlib/status-report/update
+2025-12-26 17:19:51,615 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.comet.com', port=443): Read timed out. (read timeout=10)")': /clientlib/rest/v2/write/experiment/output
+2025-12-26 19:11:09,927 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.comet.com', port=443): Read timed out. (read timeout=10)")': /clientlib/status-report/update
+2025-12-26 19:11:14,139 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.comet.com', port=443): Read timed out. (read timeout=10)")': /clientlib/batch/logger/experiment/parameter
+2025-12-26 19:13:24,158 - INFO - Model training completed
+2025-12-26 19:13:24,173 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-12-26 19:13:24,282 - INFO - Model saved to artifacts/models\model.h5
+2025-12-26 19:13:24,374 - INFO - user and anime weights saved successfully
+2025-12-26 19:22:29,071 - INFO - Data Processing initialized
+2025-12-26 19:22:30,306 - INFO - Data loaded successfully for Data processing
+2025-12-26 19:22:34,985 - INFO - Filtered users succesfully
+2025-12-26 19:22:36,305 - INFO - Rating are scaled suceesfully
+2025-12-26 19:22:36,305 - INFO - Creating mapping for encoding and decoding user_id
+2025-12-26 19:22:37,487 - INFO - Creating mapping for encoding and decoding anime_id
+2025-12-26 19:22:39,128 - INFO - Encoded and Decoded user_ids and anime_ids sucessfully
+2025-12-26 19:22:40,032 - INFO - Data splitted with training data: 3214174 samples and test data: 32467 samples
+2025-12-26 19:22:40,046 - INFO - file user_id_encoded.pk saved at artifacts/processed
+2025-12-26 19:22:40,056 - INFO - file user_id_decoded.pk saved at artifacts/processed
+2025-12-26 19:22:40,091 - INFO - file anime_id_encoded.pk saved at artifacts/processed
+2025-12-26 19:22:40,126 - INFO - file anime_id_decoded.pk saved at artifacts/processed
+2025-12-26 19:22:46,593 - INFO - Training, testing data, df_rating , ancoding and decodings saved successfully
+2025-12-26 19:22:53,564 - INFO - df and df_synopsis saved succesfully  ...
+2025-12-26 19:22:53,567 - INFO - Data processing suceesfully completed
+2025-12-26 19:22:53,568 - INFO - Model training initialized
+2025-12-26 19:23:03,009 - INFO - Model training and COMET ML initialized ...
+2025-12-26 19:23:03,199 - INFO - Data loaded successfully for Model training
+2025-12-26 19:23:03,236 - INFO - Succesfully read YAML file
+2025-12-26 19:23:03,237 - INFO - Reading configuration from config.yaml
+2025-12-26 19:23:03,237 - INFO - Model building started
+2025-12-26 19:23:04,044 - INFO - Starting training the model on training data
