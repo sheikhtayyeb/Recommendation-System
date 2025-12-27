@@ -41,10 +41,11 @@ pipeline{
                         . ${VENV_DIR}/bin/activate
                         dvc pull
                         '''
+                        }
                     }
+                }
+
+
             }
-        }
-
-
-        }
+    }
 }
