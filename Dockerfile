@@ -3,18 +3,20 @@ FROM python:slim
 ENV PYTHONDONTWRITEBYTECODE = 1\
     PYTHONUNBUFFERED = 1
 
-WORKDIR /app
+
 
 # Install system dependencies required by tensorflow
-RUN apt-get update && apt-get-install -y \
+RUN apt-get update && apt-get install -y \
     build-essential \
     libatlas-base-dev \
     libhdf5-dev \
     libprotobuf-dev \
     protobuf-compiler \
     python3-dev \
-    && apt-get-clean \
+    && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
 
 COPY . .
 
