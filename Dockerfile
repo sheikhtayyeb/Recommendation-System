@@ -9,7 +9,7 @@ WORKDIR /app
 RUN apt-get update && apt-get-install -y \
     build-essential \
     libatlas-base-dev \
-    libhdfs-dev \
+    libhdf5-dev \
     libprotobuf-dev \
     protobuf-compiler \
     python3-dev \
