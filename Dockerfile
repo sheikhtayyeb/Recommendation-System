@@ -1,14 +1,14 @@
 FROM python:slim
 
-ENV PYTHONDONTWRITEBYTECODE = 1\
-    PYTHONUNBUFFERED = 1
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1
 
 
 
 # Install system dependencies required by tensorflow
 RUN apt-get update && apt-get install -y \
     build-essential \
-    libatlas-base-dev \
+    libatlas3-base \
     libhdf5-dev \
     libprotobuf-dev \
     protobuf-compiler \
